@@ -1,5 +1,6 @@
 # 弁護士ドットコム SRE ブログ
 
+* 2021年5月24日 [GitLab RunnerをEKSで実行](https://qiita.com/bayashi1212/items/4f52d38058c65034792e)
 * 2021年5月21日 [GitLab をソース版（Docker On EC2）から Omnibus 版に移行しました](https://qiita.com/et_tei/items/3b158a77e72ed18ab8fe)
 * 2021年5月17日 [検索 Suggest サーバーをコンテナ化しました](https://qiita.com/et_tei/items/05e6c4b78b47ee6df77e)
 * 2021年5月10日 [troccoの導入で何が改善されたか](https://qiita.com/t_odash/items/9ba5bb24a7ab07603ec1)
