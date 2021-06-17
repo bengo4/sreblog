@@ -1,5 +1,6 @@
 # 弁護士ドットコム SRE ブログ
 
+* 2021年6月17日 [SSH やめました その2](https://note.com/setomits/n/nfe47ab01f12d)
 * 2021年6月16日 [SSH やめました その1](https://note.com/setomits/n/ne8242ebab7c3)
 * 2021年6月10日 [ECSタスクスケジュールでmysqldumpを日次で実行してs3にアップ](https://qiita.com/bayashi1212/items/f671756d39b749bbe0f0)
 * 2021年6月10日 [redashをECS Fargateに乗せて安定化を図りPythonで分析する環境を整えた話](https://qiita.com/t_odash/items/29e49ed3c3f8cae7f32f)
