@@ -1,7 +1,7 @@
 # 弁護士ドットコム SRE ブログ
 
+* 2021年6月28日 [ECS deploy通知](https://qiita.com/bayashi1212/items/35977ed23f7a460ae081)
 * 2021年6月22日 [Amazon Route 53 Resolver DNS Firewall 検証](https://qiita.com/et_tei/items/2b8c86ebfff23efe3063)
-* 2021年6月21日 [ECS deploy通知](https://qiita.com/bayashi1212/items/43586bb31d9dd5fd17c7)
 * 2021年6月21日 [手動で作成したAWSリソースをCloudFormation管理下に置く](https://qiita.com/chore/items/15287873fbf97081e492)
 * 2021年6月17日 [SSH やめました その2](https://note.com/setomits/n/nfe47ab01f12d)
 * 2021年6月16日 [SSH やめました その1](https://note.com/setomits/n/ne8242ebab7c3)
