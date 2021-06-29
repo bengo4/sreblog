@@ -1,5 +1,6 @@
 # 弁護士ドットコム SRE ブログ
 
+* 2021年6月29日 [BigQueryの承認済みビュー設定方法](https://qiita.com/t_odash/items/65b9c965031c3120b765)
 * 2021年6月28日 [DATADOGでログのArchivesとRehydrateをやってみる](https://qiita.com/bayashi1212/items/042bd2812c082be632f9)
 * 2021年6月28日 [ECS deploy通知](https://qiita.com/bayashi1212/items/35977ed23f7a460ae081)
 * 2021年6月27日 [Route53 クエリログの監視](https://qiita.com/et_tei/items/fc0766c93e2dc118f754)
