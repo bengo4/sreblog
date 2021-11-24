@@ -1,5 +1,6 @@
 # 弁護士ドットコム SRE ブログ
 
+* 2021年11月22日 [ECSタスク定義に\tが入っていたせいでredashでNoneType object has no attribute test_connectionが出た話](https://qiita.com/t_odash/items/b3654ecab32518fd6e77)
 * 2021年11月17日 [ECS Fargate環境のredashをv8からv10にした話](https://qiita.com/t_odash/items/35e98975bc0f8017d3e4)
 * 2021年8月26日 [サイトリライアビリティワークブックをエクストリームリーディングで読んでいます](https://note.com/setomits/n/n896c2261843b)
 * 2021年7月7日 [OneLogin と Amazon EventBridge を連携し、イベントログを Cloudwatch Logs へ転送](https://qiita.com/et_tei/items/0e29717d1036dda4e114)
